@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0KICEgecfqZaW6DaaIFKsZcJSeq1l+PisvUbKwZOJgN2Y+hBh8W1MroSgD6HdVWKN+2LKWmaYFUFYsN6TegJ2Q==",
+  "success": true,
+  "projectFilePath": "/Users/davep/Desktop/DemoSerializer/ExampleConsole/ExampleConsole.vbproj",
+  "expectedPackageFiles": [
+    "/Users/davep/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

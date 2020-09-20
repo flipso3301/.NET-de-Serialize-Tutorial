@@ -1,0 +1,16 @@
+/Users/davep/Desktop/DemoSerializer/ExampleConsole/bin/Debug/netcoreapp3.1/ExampleConsole.deps.json
+/Users/davep/Desktop/DemoSerializer/ExampleConsole/bin/Debug/netcoreapp3.1/ExampleConsole.runtimeconfig.json
+/Users/davep/Desktop/DemoSerializer/ExampleConsole/bin/Debug/netcoreapp3.1/ExampleConsole.runtimeconfig.dev.json
+/Users/davep/Desktop/DemoSerializer/ExampleConsole/bin/Debug/netcoreapp3.1/ExampleConsole.dll
+/Users/davep/Desktop/DemoSerializer/ExampleConsole/bin/Debug/netcoreapp3.1/ExampleConsole.pdb
+/Users/davep/Desktop/DemoSerializer/ExampleConsole/obj/Debug/netcoreapp3.1/ExampleConsole.vbprojAssemblyReference.cache
+/Users/davep/Desktop/DemoSerializer/ExampleConsole/obj/Debug/netcoreapp3.1/ExampleConsole.AssemblyInfoInputs.cache
+/Users/davep/Desktop/DemoSerializer/ExampleConsole/obj/Debug/netcoreapp3.1/ExampleConsole.AssemblyInfo.vb
+/Users/davep/Desktop/DemoSerializer/ExampleConsole/obj/Debug/netcoreapp3.1/ExampleConsole.vbproj.CoreCompileInputs.cache
+/Users/davep/Desktop/DemoSerializer/ExampleConsole/obj/Debug/netcoreapp3.1/ExampleConsole.dll
+/Users/davep/Desktop/DemoSerializer/ExampleConsole/obj/Debug/netcoreapp3.1/ExampleConsole.pdb
+/Users/davep/Desktop/DemoSerializer/ExampleConsole/obj/Debug/netcoreapp3.1/ExampleConsole.genruntimeconfig.cache
+/Users/davep/Desktop/DemoSerializer/ExampleConsole/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/davep/Desktop/DemoSerializer/ExampleConsole/bin/Debug/netcoreapp3.1/ExampleSerializer.dll
+/Users/davep/Desktop/DemoSerializer/ExampleConsole/bin/Debug/netcoreapp3.1/ExampleSerializer.pdb
+/Users/davep/Desktop/DemoSerializer/ExampleConsole/obj/Debug/netcoreapp3.1/ExampleConsole.vbproj.CopyComplete

@@ -1,0 +1,9 @@
+/Users/davep/Desktop/DemoSerializer/ExampleSerializer/obj/Debug/netcoreapp3.1/ExampleSerializer.vbprojAssemblyReference.cache
+/Users/davep/Desktop/DemoSerializer/ExampleSerializer/obj/Debug/netcoreapp3.1/ExampleSerializer.AssemblyInfoInputs.cache
+/Users/davep/Desktop/DemoSerializer/ExampleSerializer/obj/Debug/netcoreapp3.1/ExampleSerializer.AssemblyInfo.vb
+/Users/davep/Desktop/DemoSerializer/ExampleSerializer/obj/Debug/netcoreapp3.1/ExampleSerializer.vbproj.CoreCompileInputs.cache
+/Users/davep/Desktop/DemoSerializer/ExampleSerializer/bin/Debug/netcoreapp3.1/ExampleSerializer.deps.json
+/Users/davep/Desktop/DemoSerializer/ExampleSerializer/bin/Debug/netcoreapp3.1/ExampleSerializer.dll
+/Users/davep/Desktop/DemoSerializer/ExampleSerializer/bin/Debug/netcoreapp3.1/ExampleSerializer.pdb
+/Users/davep/Desktop/DemoSerializer/ExampleSerializer/obj/Debug/netcoreapp3.1/ExampleSerializer.dll
+/Users/davep/Desktop/DemoSerializer/ExampleSerializer/obj/Debug/netcoreapp3.1/ExampleSerializer.pdb
